@@ -34,6 +34,7 @@ public class NewPlanActivity extends FragmentActivity {
     private static final String PUT_DESTINATIONS =
             "com.example.baozeng.travelplanner.destinations";
     private ArrayList<String> destinations = new ArrayList<String>();
+    //private ArrayList<Button> destinations = new ArrayList<>();
 
     public static Intent newIntent(Context packageContext) {
         Intent i = new Intent(packageContext, NewPlanActivity.class);

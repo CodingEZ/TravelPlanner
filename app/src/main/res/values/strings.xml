@@ -4,9 +4,11 @@
     <string name="saved_plans_button">Saved plans</string>
     <string name="title_activity_new_plan">NewPlanActivity</string>
     <string name="title_activity_list_plans">ListPlansActivity</string>
+    <string name="title_activity_maps">Map</string>
 
     <string name="add_destination_button">Add Destination</string>
     <string name="remove_destination_button">Remove Destination</string>
+    <string name="map_button">Generate Map</string>
 
     <string name="save_message">Plan Saved!</string>
     <string name="save_question">Would you like to save this plan?</string>
